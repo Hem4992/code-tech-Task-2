@@ -1,4 +1,5 @@
-Speech Recognition System.
+Speech Recognition System
+
 This response includes the project structure, the source code (using Hugging Face's Wav2Vec2 for state-of-the-art accuracy),
 
 INTERNSHIP INFORMATION
